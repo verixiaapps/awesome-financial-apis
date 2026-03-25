@@ -39,8 +39,18 @@ Curated list of free and freemium APIs for financial data, stock markets, crypto
 - **Forex** — Open Exchange Rates + Twelve Data
 - **Portfolio Tracking** — Polygon.io + SEC EDGAR
 
+## Python Clients (Ready to Use)
+
+- [Alpha Vantage Python](https://github.com/Spinov001/alpha-vantage-python) — Stock prices, technical indicators, fundamentals
+- [CoinGecko Python](https://github.com/Spinov001/coingecko-python) — 13,000+ crypto coins, no API key needed
+- [SEC EDGAR Python](https://github.com/Spinov001/sec-edgar-api-python) — SEC filings and company data
+- [FRED API Python](https://github.com/Spinov001/fred-api-python) — 800K+ economic datasets
+- [Treasury API Python](https://github.com/Spinov001/treasury-api-python) — National debt and fiscal data
+
 ## Tutorials
 
+- [Alpha Vantage API: Build a Stock Dashboard](https://dev.to/0012303/alpha-vantage-api-build-a-free-stock-market-dashboard-in-python-real-time-prices-charts-alerts-fjo)
+- [CoinGecko API: Crypto Portfolio Tracker](https://dev.to/0012303/coingecko-api-build-a-free-crypto-portfolio-tracker-in-python-no-api-key-required-10gp)
 - [SEC EDGAR API Tutorial](https://dev.to/0012303/sec-edgar-api-how-i-built-a-free-stock-research-tool-no-api-key-needed-fh7)
 - [FRED API Tutorial](https://dev.to/0012303/fred-api-access-800000-economic-datasets-for-free-inflation-gdp-unemployment-4p50)
 - [Treasury API Tutorial](https://dev.to/0012303/us-treasury-api-track-the-national-debt-in-real-time-with-python-no-api-key-4kmd)
