@@ -60,5 +60,15 @@ Curated list of free and freemium APIs for financial data, stock markets, crypto
 
 Know a financial API that's missing? Open a PR!
 
+
+
+---
+
+## Author
+
+Built by Alex Spinov — production-grade web scrapers and data tools.
+
+- [88+ scrapers on Apify](https://apify.com/knotless_cadence) | Email: **spinov001@gmail.com**
+
 ## License
 MIT
