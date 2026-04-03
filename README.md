@@ -49,12 +49,12 @@ Curated list of free and freemium APIs for financial data, stock markets, crypto
 
 ## Tutorials
 
-- [Alpha Vantage API: Build a Stock Dashboard](https://dev.to/0012303/alpha-vantage-api-build-a-free-stock-market-dashboard-in-python-real-time-prices-charts-alerts-fjo)
-- [CoinGecko API: Crypto Portfolio Tracker](https://dev.to/0012303/coingecko-api-build-a-free-crypto-portfolio-tracker-in-python-no-api-key-required-10gp)
-- [SEC EDGAR API Tutorial](https://dev.to/0012303/sec-edgar-api-how-i-built-a-free-stock-research-tool-no-api-key-needed-fh7)
-- [FRED API Tutorial](https://dev.to/0012303/fred-api-access-800000-economic-datasets-for-free-inflation-gdp-unemployment-4p50)
-- [Treasury API Tutorial](https://dev.to/0012303/us-treasury-api-track-the-national-debt-in-real-time-with-python-no-api-key-4kmd)
-- [Replace Paid Tools with Free APIs](https://dev.to/0012303/i-replaced-my-50month-stock-research-tool-with-3-free-apis-d6o)
+- [Alpha Vantage API: Build a Stock Dashboard](https://www.alphavantage.co/documentation/)
+- [CoinGecko API: Crypto Portfolio Tracker](https://docs.coingecko.com/reference/introduction)
+- [SEC EDGAR API Tutorial](https://www.sec.gov/search-filings)
+- [FRED API Tutorial](https://fred.stlouisfed.org/docs/api/fred/)
+- [Treasury API Tutorial](https://fiscaldata.treasury.gov/api-documentation/)
+- [Replace Paid Tools with Free APIs](https://github.com/spinov001-art/awesome-financial-apis)
 
 ## Contributing
 
