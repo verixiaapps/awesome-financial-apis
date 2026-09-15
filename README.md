@@ -55,6 +55,7 @@ Curated list of free and freemium APIs for financial data, stock markets, crypto
 - [FRED API Tutorial](https://fred.stlouisfed.org/docs/api/fred/)
 - [Treasury API Tutorial](https://fiscaldata.treasury.gov/api-documentation/)
 - [Replace Paid Tools with Free APIs](https://github.com/spinov001-art/awesome-financial-apis)
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 ## Contributing
 
